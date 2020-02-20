@@ -1,0 +1,20 @@
+server: 
+  servlet:
+    context-path: /API/${spring.application.name}
+  port: 8080
+
+inail:
+  logging.pattern: "%d{yyyy-MM-dd'T'HH:mm:ss.SSSXXX} %p [%thread][%X{api.user:-}, %X{api.sid:-}, %X{dominio:-}, %X{versione:-}, %X{req.method:-}, %X{req.requestURI:-}, %X{trace.id:-}, %X{trace.span.id:-}] %logger@%line %m%n" 
+
+spring:
+  application:
+    name: pratica
+  jackson:
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+  
+logging:
+  level:
+    root: INFO
+    org.springframework: INFO
+    it.inail: DEBUG
