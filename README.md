@@ -17,3 +17,6 @@ Di seguito sono descritte le caratteristiche minime necessarie per la predisposi
 | PMIS-ADAPTER-API | RAM: 8192 Processori: 4 HDD: 30 GB | J2EE Application Server | RedHat Enterprise Linux Server v. 7.5 | JDK 1.8u181 | Redhat JBoss EAP 7.1 |
 | PMIS-ADAPTER-WRK | RAM: 16384 Processori: 8 HDD: 30 GB | Worker Business Logic | RedHat Enterprise Linux Server v. 7.5 | JDK 1.8u181 |   |
 
+
+ulteriore pezzettino
+
