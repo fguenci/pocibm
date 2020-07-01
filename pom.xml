@@ -22,7 +22,7 @@
 		<pooled-jms.version>1.0.4.redhat-00001</pooled-jms.version>
 		<camel.version>2.24.0</camel.version>
 		<hapi.version>2.3</hapi.version>
-		<quartz.version>1.8.6</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<spring-cloud-starter-netflix-hystrix.version>2.1.1.RELEASE</spring-cloud-starter-netflix-hystrix.version>
 		<spring-cloud-starter-hystrix-dashboard.version>1.4.7.RELEASE</spring-cloud-starter-hystrix-dashboard.version>
 		<spring-boot-maven-plugin.version>2.1.6.RELEASE</spring-boot-maven-plugin.version>
