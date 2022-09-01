@@ -18,7 +18,7 @@
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<snowdrop.spring-bom.version>2.1.6.SP3-redhat-00001</snowdrop.spring-bom.version>
 		<spring-boot.version>2.1.6.RELEASE</spring-boot.version>
-		<artemis-jms-client.version>2.7.0.redhat-00056</artemis-jms-client.version>
+		<artemis-jms-client.version>2.19.1</artemis-jms-client.version>
 		<pooled-jms.version>1.0.4.redhat-00001</pooled-jms.version>
 		<camel.version>2.24.0</camel.version>
 		<hapi.version>2.3</hapi.version>
